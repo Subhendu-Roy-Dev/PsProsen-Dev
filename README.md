@@ -18,7 +18,7 @@ Sir, main *Ps Prosen* – ek 360° Digital Dynamo from **Panbari Bazar, Jalpaigu
 4️⃣ **Finance Phantom**: GST wizard | 50-30-20 budgeting | Money architect 💸  
 5️⃣ **Digital Dominator**: SEO | SMM | AI-driven marketing for *We Digital Mitra* 📈  
 
-![Skills Animation](https://media.giphy.com/media/3o7TKz0z1n8H8qJkgM/giphy.gif)  
+![Skills Animation](https://media.giphy.com/media/QLJCFNLkG4c6EDTrgW/giphy.gif)  
 
 ---
 
@@ -46,24 +46,10 @@ Sir, main *Ps Prosen* – ek 360° Digital Dynamo from **Panbari Bazar, Jalpaigu
 2. **Medical Chatbot**: Symptom checker for rural India 🩺  
 3. **Finance Reels**: EMI vs ROI viral calculators 📱  
 
-![Work in Progress](https://media.giphy.com/media/26FPy3QZQqGtRwX5K/giphy.gif)  
+![Work in Progress](https://media.giphy.com/media/xT9IgzoKnw9N3Nth5K/giphy.gif)  
 
 ---
 
 ## 📡 Connect with Me  
 - **Bio**: [psprosen.bio](https://psprosen.bio/) 🌐  
 - **X**: [@PsProsen](https://x.com/PsProsen) (DMs open!) ✉️  
-- **Email**: psprosen@example.com (For collabs & gigs) 📧  
-
----
-
-## ⚙️ Stats That Pack a Punch  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PsProsen-Dev&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PsProsen-Dev&layout=compact&theme=radical)  
-
----
-
-**"If you’re not building the future, you’re just living in someone else’s past."**  
-– Ps Prosen, echoing Tony Stark’s vibes  
-
-![Footer Animation](https://media.giphy.com/media/l0MYt5jPRH1K1lDG0/giphy.gif)  
