@@ -1,5 +1,5 @@
 # PsProsen-Dev | The Multidisciplinary Maverick 🚀  
-![Iron Man Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)  
+![Iron Man Coding](https://i.imgur.com/8k5zX9G.gif)  
 **"I don’t just code – I architect the future, one line at a time."**  
 
 ---
@@ -18,7 +18,7 @@ Sir, main *Ps Prosen* – ek 360° Digital Dynamo from **Panbari Bazar, Jalpaigu
 4️⃣ **Finance Phantom**: GST wizard | 50-30-20 budgeting | Money architect 💸  
 5️⃣ **Digital Dominator**: SEO | SMM | AI-driven marketing for *We Digital Mitra* 📈  
 
-![Skills Animation](https://media.giphy.com/media/QLJCFNLkG4c6EDTrgW/giphy.gif)  
+![Skills Animation](https://i.imgur.com/5zM8X2K.gif)  
 
 ---
 
@@ -46,10 +46,24 @@ Sir, main *Ps Prosen* – ek 360° Digital Dynamo from **Panbari Bazar, Jalpaigu
 2. **Medical Chatbot**: Symptom checker for rural India 🩺  
 3. **Finance Reels**: EMI vs ROI viral calculators 📱  
 
-![Work in Progress](https://media.giphy.com/media/xT9IgzoKnw9N3Nth5K/giphy.gif)  
+![Work in Progress](https://i.imgur.com/Qj5X7vP.gif)  
 
 ---
 
 ## 📡 Connect with Me  
 - **Bio**: [psprosen.bio](https://psprosen.bio/) 🌐  
 - **X**: [@PsProsen](https://x.com/PsProsen) (DMs open!) ✉️  
+- **Email**: psprosen@example.com (For collabs & gigs) 📧  
+
+---
+
+## ⚙️ Stats That Pack a Punch  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PsProsen-Dev&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PsProsen-Dev&layout=compact&theme=radical)  
+
+---
+
+**"If you’re not building the future, you’re just living in someone else’s past."**  
+– Ps Prosen, echoing Tony Stark’s vibes  
+
+![Footer Animation](https://i.imgur.com/2XjK9mL.gif)  
