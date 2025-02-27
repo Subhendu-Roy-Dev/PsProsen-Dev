@@ -1,45 +1,61 @@
-# Hey, I’m Ps Prosen! 👋  
-**A Full-Stack Hustler | AI Enthusiast | Digital Marketing Maverick**
+# 👨💻 Ps Prosen | AI Developer & Open-Source Contributor  
+`Building Tools That Code, Create & Crush!`  
+
+[![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python)](https://github.com/Prosen-Dev)  
+[![AI/ML](https://img.shields.io/badge/AI%2FML-Enthusiast-FF6F00?logo=tensorflow)](https://github.com/Prosen-Dev)  
+[![Open Source](https://img.shields.io/badge/Open_Source-Contributor-3DA639?logo=github)](https://github.com/Prosen-Dev)  
 
 ---
 
-### 🚀 About Me  
-I’m a self-taught coder and innovator from Panbari, West Bengal, India. I’m all about building solutions, mastering tech, and pushing boundaries. My mission? Turn ideas into reality with code, AI, and a sprinkle of creativity! Currently, I’m working on my dream project – **We Digital Mitra**, a 360-degree digital marketing powerhouse!
-
-- 🌍 **Location:** Panbari Bazar, Jalpaiguri, WB  
-- 💻 **Tech Stack:** Python, JavaScript, Git, AI/ML Tools  
-- 🔥 **Passion:** Open-source, futuristic tech, and problem-solving  
-- 📈 **Goal:** Scale "We Digital Mitra" from local to global!  
+### 🛠️ **Core Skills**  
+- `AI/ML` | `LLMs` | `Data Analysis`  
+- `Full-Stack Dev` | `Automation`  
+- `Digital Marketing` | `SEO/SMM`  
 
 ---
 
-### 🛠️ What I Do  
-- **Coding & Development:** Full-stack projects from scratch – frontend to backend!  
-- **AI/ML Exploration:** Playing with LLMs, neural networks, and datasets.  
-- **Digital Marketing:** Crafting hacks to boost ROI with AI-driven strategies.  
-- **Open-Source:** Contributing to tools that empower local communities.  
+### 🚀 **Projects**  
+
+#### **1. AI-Powered SEO Tool**  
+- Python-based tool that auto-generates SEO-optimized content using GPT-3.5.  
+- **Tech Stack:** `Python` `FastAPI` `React` `Hugging Face`  
+- [GitHub Repo](#) *(Link your repo here)*  
+
+#### **2. Open-Source Analytics Dashboard**  
+- Real-time data visualization tool for small businesses.  
+- **Tech Stack:** `SQL` `Tableau Public` `Flask`  
+- [Live Demo](#)  
 
 ---
 
-### 🌟 Current Projects  
-- **We Digital Mitra:** Building a digital marketing agency with AI-powered SEO and SMM.  
-- **AI Experiments:** Small scripts to big models – all hosted here!  
-- **Hack Collection:** Quick coding hacks for everyday problems.  
+### ⚙️ **Tech Stack**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code)  
 
 ---
 
-### ⚡ Fun Facts  
-- I upgraded my AI assistant to **Jarvis (RTX-1.5)** – reasoning, thinking, xtreme mode ON!  
-- I thrive on free resources and turning limitations into opportunities.  
-- Coffee + Code = My fuel! ☕💻  
+### 🌟 **Open-Source Contributions**  
+- Contributed to **ElasticSearch** documentation.  
+- Built a Python wrapper for **Odoo ERP**'s API.  
 
 ---
 
-### 📬 Let’s Connect  
-- **Twitter:** [@YourTwitterHandle] (add yours!)  
-- **Email:** [YourEmail@example.com] (update this!)  
-- **Portfolio:** Coming soon with "We Digital Mitra"!  
-
-**Pro Tip:** Star my repos if you love tech hacks – let’s build something epic together! 🚀  
+### 📚 **Daily Learning**  
+- **Kaggle:** Competing in ML hackathons.  
+- **freeCodeCamp:** Sharpening full-stack skills.  
+- **Hugging Face:** Experimenting with LLMs.  
 
 ---
+
+### 🚀 **Digital Marketing Agency**  
+Founder of **[We Digital Mitra](https://github.com/Prosen-Dev)**  
+- `AI-Driven Marketing`  
+- `Client ROI Tracking`  
+- `Custom SaaS Tools`  
+
+---
+
+### 📫 **Let's Connect!**  
+[![LinkedIn](#)](https://linkedin.com/in/yourprofile)  
+[![Twitter](#)](https://twitter.com/yourhandle)  
