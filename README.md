@@ -1,5 +1,5 @@
 # PsProsen-Dev | The Multidisciplinary Maverick 🚀  
-![Iron Man Coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Y0M2Q0MjUyZjUwMjY3ZDY5M2Q5YzY5M2Q5YzY5M2Q5YzY5M2Q5YzY5/giphy.gif)  
+![Iron Man Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)  
 **"I don’t just code – I architect the future, one line at a time."**  
 
 ---
@@ -18,7 +18,7 @@ Sir, main *Ps Prosen* – ek 360° Digital Dynamo from **Panbari Bazar, Jalpaigu
 4️⃣ **Finance Phantom**: GST wizard | 50-30-20 budgeting | Money architect 💸  
 5️⃣ **Digital Dominator**: SEO | SMM | AI-driven marketing for *We Digital Mitra* 📈  
 
-![Skills Animation](https://media.giphy.com/media/26xBI73gWquCrFwy4/giphy.gif)  
+![Skills Animation](https://media.giphy.com/media/3o7TKz0z1n8H8qJkgM/giphy.gif)  
 
 ---
 
@@ -46,7 +46,7 @@ Sir, main *Ps Prosen* – ek 360° Digital Dynamo from **Panbari Bazar, Jalpaigu
 2. **Medical Chatbot**: Symptom checker for rural India 🩺  
 3. **Finance Reels**: EMI vs ROI viral calculators 📱  
 
-![Work in Progress](https://media.giphy.com/media/3o6Zt6KHxJTbXCnSso/giphy.gif)  
+![Work in Progress](https://media.giphy.com/media/26FPy3QZQqGtRwX5K/giphy.gif)  
 
 ---
 
@@ -66,4 +66,4 @@ Sir, main *Ps Prosen* – ek 360° Digital Dynamo from **Panbari Bazar, Jalpaigu
 **"If you’re not building the future, you’re just living in someone else’s past."**  
 – Ps Prosen, echoing Tony Stark’s vibes  
 
-![Footer Animation](https://media.giphy.com/media/26tPghhb310bo88U0/giphy.gif)  
+![Footer Animation](https://media.giphy.com/media/l0MYt5jPRH1K1lDG0/giphy.gif)  
